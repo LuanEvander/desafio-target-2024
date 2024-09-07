@@ -1,6 +1,6 @@
 # Desafio Target Sistemas - Estágio
 
-Esse repósitório é referente ao desafio técnico para vaga de estágio na [Target Sistemas](targetsistemas.com.br).
+Esse repósitório é referente ao desafio técnico para vaga de estágio na [Target Sistemas](https://targetsistemas.com.br).
 
 ## Descrição do Desafio
 
